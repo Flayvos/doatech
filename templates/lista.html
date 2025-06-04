@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista - DoaTech</title>
+</head>
+<body>
+    <h2>Lista de Doações/Solicitações</h2>
+    <ul>
+        {% for item in dados %}
+        <li><strong>{{ item.tipo }}</strong> por {{ item.nome }} ({{ item.email }}): {{ item.mensagem }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Voltar</a>
+</body>
+</html>
