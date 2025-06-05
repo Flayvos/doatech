@@ -33,7 +33,11 @@ http://localhost:5000
 - Código aberto e reutilizável
 
 ## 💡 Screenshots
-(Imagens da interface podem ser adicionadas aqui como parte do relatório ou README)
+![スクリーンショット (150)](https://github.com/user-attachments/assets/16f6ef8b-7bf4-41d5-8360-f43c64d6276e)
+![スクリーンショット (151)](https://github.com/user-attachments/assets/8187dae0-5a40-4a5a-8305-0fdd244e8b2b)
+![スクリーンショット (152)](https://github.com/user-attachments/assets/cb7818d0-1411-421f-9c50-f888cb68af5a)
+![スクリーンショット (153)](https://github.com/user-attachments/assets/380f91dd-3d76-482b-96db-7029da4b00b2)
+
 
 ## 📚 Licença
 MIT License — uso livre para fins educacionais e comunitários.
